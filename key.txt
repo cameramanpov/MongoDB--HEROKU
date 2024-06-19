@@ -1,0 +1,1 @@
+mongodb+srv://Administrator:<password>@gi-slorp.4jlfyv2.mongodb.net/?retryWrites=true&w=majority&appName=GI-SLORP
